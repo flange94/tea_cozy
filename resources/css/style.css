@@ -1,0 +1,11 @@
+/* ************************ */
+/* SOME GENERAL DEFINITIONS */
+/* ************************ */
+
+body {
+  background-color: #211F28;
+  font-family: Helvetica;
+  font-size: 22px;
+  color: seashell;
+  opacity: 0.9;
+}
