@@ -37,6 +37,14 @@ header nav {
   text-align: right;
 }
 
+header a {
+  color: seashell;
+}
+
+header a:hover {
+  color: #211F28;
+}
+
 .links {
   padding: 10px;
   margin-right: 10px;
@@ -45,13 +53,10 @@ header nav {
 }
 
 .links:hover {
-  border: 1px solid seashell;
+  background-color: seashell;
   cursor: pointer;
 }
 
-.links a {
-  color: seashell;
-}
 
 /* ******************* */
 /* CONTENT DEFINITIONS */
